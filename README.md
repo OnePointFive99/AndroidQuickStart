@@ -6,5 +6,5 @@
 完成情况：
 - UI界面如图所示，添加了角色个人信息、基础操作按钮，计分显示
 - 添加了得分排行榜，并通过UE的SaveGame保存于本地，重开游戏会读取已保存的信息，榜单昵称是Editable TextBox，可直接编辑保存
-- 课程笔记及作业记录：
+- 课程笔记及作业记录：[腾讯客户端开发公开课4_UMG界面](https://github.com/OnePointFive99/TencentGameClientOpenClass/blob/master/%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%85%AC%E5%BC%80%E8%AF%BE4_UMG%E7%95%8C%E9%9D%A2/%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%85%AC%E5%BC%80%E8%AF%BE(%E5%9B%9B)%20UMG%E7%95%8C%E9%9D%A2.md)
 - 腾讯微云链接：
