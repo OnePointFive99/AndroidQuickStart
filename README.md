@@ -6,7 +6,7 @@
 完成情况：
 - 源码编译了UnrealEngine5.2.1版本，在第三人称模板基础上进行了简单场景编辑
 - 编译并构建了两种安装包：1. 包含OBB文件的安卓Apk；2.OBB文件+APK（用于Google Play发行的格式）
-<img width="600" alt="UE入门" src="https://github.com/OnePointFive99/AndroidQuickStart/assets/48060880/263c6389-8992-4101-ace7-abb2f2687f3c">
+<img width="800" alt="UE入门" src="https://github.com/OnePointFive99/AndroidQuickStart/assets/48060880/263c6389-8992-4101-ace7-abb2f2687f3c">
 
 - 课程笔记及作业记录：[腾讯游戏客户端公开课1_UE入门](https://github.com/OnePointFive99/TencentGameClientOpenClass/blob/master/%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%85%AC%E5%BC%80%E8%AF%BE1_UE%E5%85%A5%E9%97%A8/%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%85%AC%E5%BC%80%E8%AF%BE(%E4%B8%80)UE%E5%85%A5%E9%97%A8.md)
 - 腾讯微云链接：
