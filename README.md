@@ -1,3 +1,11 @@
-# AndroidQuickStart
+# 腾讯客户端开发公开课作业一   《UE入门》作业
+要求：
+- 源码编译UnrealEngine4/5， 新建一个C++工程，进行简单厂家编辑和工程设置
+- 编译并构建安装包，确保能够用来将游戏工程安装到手机正常运行（若无Android手机可构建桌面版本）
 
-Developed with Unreal Engine 5
+完成情况：
+- 源码编译了UnrealEngine5.2.1版本，在第三人称模板基础上进行了简单场景编辑
+- 编译并构建了两种安装包：1. 包含OBB文件的安卓Apk；2.OBB文件+APK（用于Google Play发行的格式）
+- 课程笔记及作业记录：
+- 腾讯微云链接：
+- 工程链接：
